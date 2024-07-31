@@ -11,7 +11,7 @@ const Header = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/Milan-98?tab=repositories", "_blank")
+            window.open("https://github.com/urukondashruti", "_blank")
           }
           className='black_btn'
         >
